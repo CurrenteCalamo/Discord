@@ -14,6 +14,4 @@ client.on('ready', () => {
 	console.log(`Logged in as ${client.user.tag}!`)
 })
 
-client.login(
-	'MTAwNjkxMTE5NjE1MjIwMTM2Ng.G7A3GP.rNptT3kKOFjHvR1boamblHRgEEeJwWej4LGwXA',
-)
+client.login(process.env.TOKEN)
