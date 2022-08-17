@@ -15,5 +15,5 @@ client.on('ready', () => {
 })
 
 client.login(
-	'OTcxNzE1OTQzNDMwNTAwNDEz.GF-_Ig.88F2tVwqNZbWyuVuzOWgZcL5kwq4d9q1YPlVxo',
+	'OTcxNzE1OTQzNDMwNTAwNDEz.GwCmq3.DYGaDxJTuGc6Jt1E0fxpNyz-H9yBVVPwgk_17M',
 )
