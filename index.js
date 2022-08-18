@@ -13,5 +13,5 @@ const client = new Client({
 client.on('ready', () => {
 	console.log(`Logged in as ${client.user.tag}!`)
 })
-console.log(`${process.env.TOKEN}`)
-client.login(`${process.env.TOKEN}`)
+console.log(32)
+client.login(process.env.TOKEN)
